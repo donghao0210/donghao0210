@@ -4,10 +4,10 @@
 <h3 align="center">I'm a Cyber Security Student, Network Enigneer, Software Enigneer, Developer and Tech Enthusiastic</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donghao0210&label=Profile%20views&color=0e75b6&style=flat&" alt="ali-commits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donghao0210&label=Profile%20views&color=0e75b6&style=flat&" alt="donghao0210" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donghao0210&theme=nord&no-bg=true" alt="ali-commits" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donghao0210&theme=nord&no-bg=true" alt="donghao0210" /></a> </p>
 
 
 
