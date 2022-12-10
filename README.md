@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm DongHao</h1>
-<h3 align="center">I'm a Cyber Security Student, Network Enigneer, Software Enigneer, Developer and Tech Enthusiastic</h3>
+<h3 align="center">I'm a Cyber Security Student, Network Enigneer, Software Enigneer, Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donghao0210&label=Profile%20views&color=0e75b6&style=flat&" alt="donghao0210" /> </p>
@@ -14,6 +14,10 @@
 - 🔭 I’m currently working on **Mesh Networking For Drones**
 
 - 🌱 I’m currently learning **Cyber Security, Softare Developement & Networking**
+
+- 👯 I’m looking forward to **Freelancing** 
+
+- 🌱 I'm working on [Tenancy](https://github.com/FourKIA)
 
 - 💬 Ask me about **Linux, Basic Web App Security, Basic Network Security & Networking**
 - 🏆 My goal this year is to learn & hardern my skills from the industry as an intern.
