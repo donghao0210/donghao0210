@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Dong</h1>
-<h3 align="center">I'm a Cyber Security Student, Network Enigneer, Software Enigneer, Developer</h3>
+<h3 align="center">I'm a DevOps Engineer / Site Reliability Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donghao0210&label=Profile%20views&color=0e75b6&style=flat&" alt="donghao0210" /> </p>
@@ -13,9 +13,7 @@
 
 - 🔭 I’m currently working on **Mesh Networking For Drones**
 
-- 🌱 I’m currently learning **Cyber Security, Softare Developement & Networking**
-
-- 👯 I’m looking forward to **Freelancing** 
+- 🌱 I’m currently learning **SRE, DevOps, Kubernetes, Software Development**
 
 - 🌱 I'm working on [Tenancy](https://github.com/FourKIA)
 
