@@ -18,7 +18,6 @@
 - 🌱 I'm working on [Tenancy](https://github.com/FourKIA)
 
 - 💬 Ask me about **Linux, Basic Web App Security, Basic Network Security & Networking**
-- 🏆 My goal this year is to learn & hardern my skills from the industry as an intern.
 
 
 <h3 align="left">Connect with me:</h3>
