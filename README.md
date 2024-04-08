@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Linux, Web Development, DevOps**
 
-- 👨‍💻 Use my Shell: **You can use my shell(ZSH) setup script by running `curl -L bit.ly/dhconfig | bash` in your terminal**
+- 👨‍💻 Use my Shell: **You can use my shell(ZSH) setup script by running `curl -L bit.ly/dhconfig | bash` in your terminal OR clone the dotfiles [HERE](https://github.com/donghao0210/dotfiles)**
 
 
 <h3 align="left">Connect with me:</h3>
